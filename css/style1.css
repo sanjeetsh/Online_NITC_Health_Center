@@ -1,0 +1,51 @@
+
+
+html , body{
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+
+.form-color{
+	background-color: #d6dfd6;
+	padding-bottom: 40px;
+}
+
+.nav-link{
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.bod{
+	
+	min-height: 100%;
+}
+
+
+.reg{
+	background-color: #d1d7db;
+	border-radius: 10px;
+	border: 2px solid white;
+	padding: 15px;
+	padding-top: 30px;
+
+}
+
+.foot{
+	background-color: #ccc5ef;
+	padding-top: 30px;
+
+}
+
+#inputfield{
+	color: black;
+	font-family: Verdana;
+	font-weight: bold;
+	font-size: 12px;
+	background-color: #d6dfd6; 
+
+}
+
+.pad{
+	padding-top: 170px;
+}
