@@ -144,7 +144,7 @@ function checkRollNo(){
             var phonecheck = /^[789][0-9]{9}$/;
             var idcheck = /^[bBmMpP]{1}[0-9]{6}[a-zA-Z]{2}$/;
             var bloddcheck = /^[oOaAbB]{1,2}[+-]{1}$/;
-            var addresscheck = /^[a-zA-Z0-9\s,'-]$/;*/
+            var addresscheck1 = /^[a-zA-Z0-9\s,'-]$/; */
 
 
 
